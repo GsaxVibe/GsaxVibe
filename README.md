@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GsaxVibe
 - 👀 I’m interested in Building websites 
-- 🌱 I’m currently learning Html and Css,hopeful start JS soon
+- 🌱 I’m currently learning Html and Css,hopefully start JS soon
 - 💞️ I’m looking to collaborate on building great websites
 - 📫 reach me on 08168596514, 
 If you need a mentee ,I'm readily available 
